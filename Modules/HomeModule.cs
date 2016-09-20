@@ -1,5 +1,5 @@
 using Nancy;
-namespace ProjectCore
+namespace Inventory
 {
   public class HomeModule : NancyModule
   {
